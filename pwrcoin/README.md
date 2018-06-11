@@ -6,5 +6,7 @@ description: >-
 
 # PWrCoin
 
-![](.gitbook/assets/pwr-4.pdf)
+![](../.gitbook/assets/pwr-5.pdf)
+
+
 
